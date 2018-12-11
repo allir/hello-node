@@ -1,0 +1,14 @@
+{
+
+  "name": "hello-node",
+	"version": "0.0.1",
+	"description": "Node.js Hello App",
+	"author": "allir",
+	"main": "hello.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+    "express": "^4.16.1"
+	}
+}
